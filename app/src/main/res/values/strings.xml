@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">OpcSystem</string>
+    <string name="chose">Выберете нужную функцию</string>
+
+    <string name="Null"></string>
+
+    <string name="calcCof">Калькулятор коэфициента</string>
+    <string name="recept">Рецептура</string>
+    <string name="check">Список дел \n дневного сотрудника</string>
+    <string name="check2">Список дел \n ночного сотрудника</string>
+    <string name="script">Скрипт общения с гостем</string>
+
+    <string name="CalcMCofIn">Введите вес свежепомолотого кофе:</string>
+    <string name="CalcTimeIn">Введите время экстракции:</string>
+    <string name="CalcPomIn">Введите текущий помол:</string>
+    <string name="CalcMDoneCofIn">Введите вес приготовленного эспрессо:</string>
+    <string name="CalcMultiply">Посчитать</string>
+    <string name="btnRetCalc">Посчитать еще раз</string>
+
+    <string name="btnBackToList">Вернуться к списку функций</string>
+
+    <string name="recSummer">Летнее меню</string>
+    <string name="recWinter">Зимнее меню</string>
+    <string name="recSpring">Весеннее меню</string>
+    <string name="recAutumn">Осеннее меню</string>
+
+
+</resources>
